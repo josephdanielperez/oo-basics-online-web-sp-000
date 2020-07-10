@@ -1,5 +1,3 @@
-require_relative '../lib/book'
-
 describe 'Book' do
   describe '::new' do
     it 'gets initialized with a title' do
